@@ -11,7 +11,7 @@
         <div>
             <p><b>Hi! Karthickvelmani!!!!!!</b></p>
             <p><b>Welcome KarthiVelmani</b></p>
-            <p><b>Kumaran  systems Azure Team!!!!</b></p>
+            <p><b>KS Azure Team!!!!</b></p>
             <asp:Button ID="Button1" runat="server" Text="CLICK HERE" />
         </div>
     </form>
